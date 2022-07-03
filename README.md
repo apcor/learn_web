@@ -11,6 +11,8 @@ This service was created by **Arsen Sogoyan** during the [Learn Python course](h
 - ### Current weather summary
 By using the [Weather API](https://www.worldweatheronline.com/developer/api/) we are pulling a JSON-response containing weather info for *Moscow, Russia* and output current temperature and 'feels-like' temperature.
 
+**Note:** [World Weather Online](https://www.worldweatheronline.com/developer/api/) has 30-day free API access, so upon expiry I switched to free [Weather API](https://www.weatherapi.com/api.aspx) that has no time limitations.
+
 Using [Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/) template, `index.html` page was created to accomodate not only weather but other info in column sections. 
 
 - ### Python.org news
